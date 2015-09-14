@@ -1,0 +1,19 @@
+{
+  "name": "2048",
+  "version": "0.0.1",
+  "description": "logic basics",
+  "homepage": "https://github.com/bufferoverflow/2048",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/bufferoverflow/2048.git"
+  },
+  "keywords": [
+    "logic",
+    "game"
+  ],
+
+  "scripts": {
+    "clean": "rm -rf 2048.zip",
+    "app": "zip -r 2048.zip *"
+  }
+}

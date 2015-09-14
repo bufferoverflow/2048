@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "name": "2048",
+  "description": "logic basics",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icons/2048_128x128.png"
+  },
+  "developer": {
+    "name": "Roger Meier",
+    "url": "https://github.com/bufferoverflow/2048"
+  }
+}
